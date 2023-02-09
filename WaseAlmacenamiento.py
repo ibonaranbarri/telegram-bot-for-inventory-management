@@ -6,7 +6,7 @@ from datetime import datetime
 import telebot
 import argparse
 import cv2
-API_KEY = '5668347223:AAG6_skHjdgKvW8Q26lYF6wBz6cXcTaVzuM'
+API_KEY = 'YOUR_TELEGRAM_BOT_API_KEY'
 bot = telebot.TeleBot(API_KEY)
 
 '''
